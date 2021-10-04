@@ -1,0 +1,314 @@
+{
+    "message": "ok",
+    "content": {
+        "took": 2,
+        "timed_out": false,
+        "_shards": {
+            "total": 5,
+            "successful": 5,
+            "skipped": 0,
+            "failed": 0
+        },
+        "hits": {
+            "total": 5,
+            "max_score": 5.6315417,
+            "hits": [
+                {
+                    "_index": "glds",
+                    "_type": "docs",
+                    "_id": "GLDS-165",
+                    "_score": 5.6315417,
+                    "_source": {
+                        "Authoritative Source URL": "GLDS-165/",
+                        "Flight Program": "NA",
+                        "Mission": {
+                            "End Date": "17-Nov-2011",
+                            "Start Date": "31-Oct-2011",
+                            "Name": "Shenzhou-8 (SZ-8)"
+                        },
+                        "Material Type": "total RNA extract",
+                        "Project Identifier": "NA",
+                        "Accession": "GLDS-165",
+                        "Study Identifier": "GSE90823",
+                        "Study Protocol Name": "sample collection     RNA extraction     labeling     nucleic acid hybridization     data collection     normalization data transformation",
+                        "Study Assay Technology Type": "DNA microarray",
+                        "Acknowledgments": "",
+                        "Study Assay Technology Platform": "Exiqon",
+                        "Study Person": {
+                            "Last Name": "Gao",
+                            "Middle Initials": "",
+                            "First Name": "Ying"
+                        },
+                        "Study Protocol Type": "sample collection     RNA extraction     labeling     nucleic acid hybridization     data collection     normalization data transformation",
+                        "Space Program": "NA",
+                        "Study Title": "Synergistic effects of space radiation and microgravity (miRNA WT and dys-mutant)",
+                        "Study Factor Type": "Absorbed Radiation Dose, Weightlessness",
+                        "Study Public Release Date": "1488344400",
+                        "Parameter Value": "",
+                        "thumbnail": "/genelab/img/GLDS165__study_image.png",
+                        "Study Factor Name": "weightlessness     absorbed radiation dose",
+                        "Study Assay Measurement Type": "transcription profiling",
+                        "Project Type": "Spaceflight Study",
+                        "Factor Value": "",
+                        "Data Source Accession": "GSE90823",
+                        "Data Source Type": "cgene",
+                        "Project Title": "",
+                        "Study Funding Agency": "This work is supported by  xe2 x80 x9cNational Natural Science Foundation of China (31270903) xe2 x80 x9d and  xe2 x80 x9cthe Fundamental Research Funds for the Central Universities (3132016330) xe2 x80 x9d.",
+                        "Study Protocol Description": "Shenzhou-8 was launched in the Jiuquan Satellite Launch Center on 1 November 2011. About 10 h before the launch fresh solid NGM and approximately 100,000 dauer worms were successively loaded in the containers.Containers were settled into the centrifugal and static slots of BIOBOX. The Shenzhou-8 mission was  xef xac x82own from 1  xe2 x80 x93 17 November 2011 with a total mission time of 16.5 days. Throughout the duration of the experiment the containers maintained a temperature of 23+/- 0.5C. G-force peaks did not exceed levels of 0.01 g while most of the time values oscillated between 0.005 g. Space radiations dose was measured in the static slot (1.92 mGy) and centrifuge slot (2.27 mGy) respectively. Seven hours after landing worms were collected and kept in liquid nitrogen. The corresponding ground controls of the experiment were performed in parallel at the Payload Integration Test Center in Beijing 2 days later. Here the samples were kept in a static slot in BIOBOX and temperature was maintained at 23 +/-0.5 xc2 xb0C. The ground group was stopped after 16.5 days and the samples were collected after 7 h later.",
+                        "Experiment Platform": "",
+                        "Characteristics": "",
+                        "Study Grant Number": "National Natural Science Foundation of China #31270903 Fundamental Research Funds for the Central Universities #3132016330",
+                        "Study Publication Author List": "Xu D Gao Y Guo L Lin C Sun Y",
+                        "Project Link": "",
+                        "Study Publication Title": "Effect of dys-1 mutation on gene expression",
+                        "Managing NASA Center": "",
+                        "Study Description": "Space radiations and microgravity both could cause DNA damage in cells but the effects of microgravity on DNA damage response to space radiations are still controversial. A mRNA microarray and microRNA microarray in dauer larvae of Caenorhabditis elegans (C. elegans) that endured spaceflight environment and space radiations environment during 16.5-day Shenzhou-8 space mission were performed. In our study wild type and dys-1 mutant strains of C.elegans endured four conditions during shenzhou-8 spaceflight mission including spaceflight static condition(ss) spaceflight 1-g centrifugal condition(sc) ground control condition(gc) and no-transport control. Limited to the quantity of worm samples we performed technical-repeat test but not sample-repeat test. Accordingly eight miRNA microarrays were performed.",
+                        "organism": "Caenorhabditis elegans"
+                    },
+                    "highlight": {
+                        "all": [
+                            "<em>cgene</em>",
+                            "Xu D Gao Y Guo L Lin C <em>Sun</em> Y"
+                        ]
+                    }
+                },
+                {
+                    "_index": "glds",
+                    "_type": "docs",
+                    "_id": "GLDS-17",
+                    "_score": 5.195303,
+                    "_source": {
+                        "Authoritative Source URL": "GLDS-17/",
+                        "Flight Program": "Space Transportation System (STS)",
+                        "Mission": {
+                            "End Date": "20-Apr-2010",
+                            "Start Date": "05-Apr-2010",
+                            "Name": "STS-131"
+                        },
+                        "Material Type": "",
+                        "Project Identifier": "BRIC-16",
+                        "Accession": "GLDS-17",
+                        "Study Identifier": "E-MTAB-1009",
+                        "Study Protocol Name": "P-MTAB-25688     P-MTAB-25689     P-MTAB-25690     P-MTAB-25691     P-MTAB-25692     P-MTAB-25693     radiation dosimetry     GeneLab microarray data processing protocol",
+                        "Study Assay Technology Type": "DNA microarray",
+                        "Acknowledgments": "",
+                        "Study Assay Technology Platform": "Affymetrix",
+                        "Study Person": {
+                            "Last Name": "Ferl     Zupanska     Paul",
+                            "Middle Initials": "J     K",
+                            "First Name": "Robert     Agata     Anna-Lisa"
+                        },
+                        "Study Protocol Type": "grow     nucleic_acid_extraction     reverse_transcription     labeling     hybridization     bioassay_data_transformation     Radiation Dosimetry     data transformation",
+                        "Space Program": "NASA",
+                        "Study Title": "Transcription profiling by array of the response of Arabidopsis cultivar Columbia etiolated seedlings and undifferentiated tissue culture cells to the spaceflight environment",
+                        "Study Factor Type": "Cosmic Radiation, Space Flight, organism part",
+                        "Study Public Release Date": "1331182800",
+                        "Parameter Value": "",
+                        "thumbnail": "/genelab/img/GLDS17__study_image.png",
+                        "Study Factor Name": "Spaceflight     Organism Part     Cosmic Radiation",
+                        "Study Assay Measurement Type": "transcription profiling",
+                        "Project Type": "Spaceflight Study",
+                        "Factor Value": "",
+                        "Data Source Accession": "E-MTAB-1009",
+                        "Data Source Type": "cgene",
+                        "Project Title": "The biological impact of spaceflight and extraterrestrial environments on molecular signaling and gene expression in plants",
+                        "Study Funding Agency": "NASA Space Biology Program Office SLPSRA (Space Life Sciences and Physical Sciences Research and Applications) Division",
+                        "Study Protocol Description": "General biology operations: Wild-type (non-transgenic) Arabidopsis plants and Arabidopsis tissue culture cells were planted on 60mm round nutrient agar Petri plates cultured in a horizontal position until turnover and installation into the BRIC hardware. All of the sub-culturing on the plates was conducted in the laboratory of the PIs and the University of Florida. Some planting of the seeded plates was conducted at KSC. Plates were planted in a laminar flow hood and stored in sterile Biotransfer Boxes (BT). Plates with both seeds and cells were kept in the dark and the seeds vernalized at 4 deg C.",
+                        "Experiment Platform": "Biological Research in Canisters (BRIC)",
+                        "Characteristics": "",
+                        "Study Grant Number": "NNX09AL96G",
+                        "Study Publication Author List": "Anna-Lisa Paul Agata K. Zupanska Dejerianne T. Ostrow Yanping Zhang Yijun Sun Jian-Liang Li Savita Shanker William G. Farmerie Claire E. Amalfitano and Robert J. Ferl",
+                        "Project Link": "https://taskbook.nasaprs.com/Publication/index.cfm?action=public_query_taskbook_content&TASKID=9165",
+                        "Study Publication Title": "Spaceflight Transcriptomes: Unique Responses to a Novel Environment",
+                        "Managing NASA Center": "Kennedy Space Center (KSC)",
+                        "Study Description": "We address a key baseline question of whether gene expression changes are induced by the orbital environment and then we ask whether undifferentiated cells cells presumably lacking the typical gravity response mechanisms perceive spaceflight. Arabidopsis seedlings and undifferentiated cultured Arabidopsis cells were launched in April 2010 as part of the BRIC-16 flight experiment on STS-131. Biologically replicated DNA microarray and averaged RNA digital transcript profiling revealed several hundred genes in seedlings and cell cultures that were significantly affected by launch and spaceflight. The response was moderate in seedlings; only a few genes were induced by more than 7-fold and the overall intrinsic expression level for most differentially expressed genes was low. In contrast cell cultures displayed a more dramatic response with dozens of genes showing this level of differential expression a list comprised primarily of heat shock-related and stress-related genes. This baseline transcriptome profiling of seedlings and cultured cells confirms the fundamental hypothesis that survival of the spaceflight environment requires adaptive changes that are both governed and displayed by alterations in gene expression. The comparison of intact plants with cultures of undifferentiated cells confirms a second hypothesis: undifferentiated cells can detect spaceflight in the absence of specialized tissue or organized developmental structures known to detect gravity.",
+                        "organism": "Arabidopsis thaliana"
+                    },
+                    "highlight": {
+                        "all": [
+                            "<em>cgene</em>",
+                            "Ostrow Yanping Zhang Yijun <em>Sun</em> Jian-Liang Li Savita Shanker William G. Farmerie Claire E."
+                        ]
+                    }
+                },
+                {
+                    "_index": "glds",
+                    "_type": "docs",
+                    "_id": "GLDS-258",
+                    "_score": 4.612028,
+                    "_source": {
+                        "Authoritative Source URL": "GLDS-258/",
+                        "Flight Program": "NA",
+                        "Mission": {
+                            "End Date": "26-Aug-2016",
+                            "Start Date": "18-Jul-2016",
+                            "Name": "SpaceX-9"
+                        },
+                        "Material Type": "human induced pluripotent stem cell-derived cardiomyocytes",
+                        "Project Identifier": "NA",
+                        "Accession": "GLDS-258",
+                        "Study Identifier": "GSE137081",
+                        "Study Protocol Name": "growth protocol     treatment protocol     sample collection     nucleic acid extraction     library construction     nucleic acid sequencing     sequence analysis data transformation",
+                        "Study Assay Technology Type": "RNA Sequencing (RNA-Seq)",
+                        "Acknowledgments": "",
+                        "Study Assay Technology Platform": "Illumina HiSeq 2000",
+                        "Study Person": {
+                            "Last Name": "Wu",
+                            "Middle Initials": "",
+                            "First Name": "Joseph"
+                        },
+                        "Study Protocol Type": "growth protocol     treatment protocol     sample collection     nucleic acid extraction     library construction     nucleic acid sequencing     sequence analysis data transformation",
+                        "Space Program": "International Space Station (ISS)",
+                        "Study Title": "Effects of Spaceflight on Human Induced Pluripotent Stem Cell-Derived Cardiomyocyte Structure and Function",
+                        "Study Factor Type": "Space Flight, time",
+                        "Study Public Release Date": "1573102800",
+                        "Parameter Value": "",
+                        "thumbnail": "/genelab/img/GLDS258__study_image.png",
+                        "Study Factor Name": "Spaceflight     Time",
+                        "Study Assay Measurement Type": "transcription profiling",
+                        "Project Type": "Spaceflight Study",
+                        "Factor Value": "",
+                        "Data Source Accession": "GSE137081",
+                        "Data Source Type": "cgene",
+                        "Project Title": "",
+                        "Study Funding Agency": "",
+                        "Study Protocol Description": "Three hiPSC lines were generated using a previously published Sendai virus reprogramming protocol on peripheral blood mononuclear cells from three healthy individuals (Churko et al. 2013). These hiPSC lines were differentiated into hiPSC-CMs using a 2D monolayer differentiation protocol and were maintained in a 5% CO2/air environment as previously described (Lian et al. 2012; Sun et al. 2012)     Monolayers of beating hiPSC-CMs were sent to the ISS for 5.5 weeks. The hiPSC-CMs were grown in fully enclosed 6-well plates (BioCells) optimized for long-term microgravity cell culture. BioCells were launched to the ISS aboard a SpaceX Dragon transport spacecraft via a SpaceX Falcon 9 rocket during the SpaceX CRS-9 commercial resupply service mission. BioCells were maintained aboard the ISS in an on-station incubator (Space Automated Bioproduct Laboratory [SABL]) at 37C and 5% CO2 and ground control cells were cultured in parallel. The hiPSC-CMs within the BioCells were cultured in a high-nutrient CM maintenance medium that was changed weekly. Ground control hiPSC-CMs were maintained identically with media changes replicated exactly on a 6-h delay from the ISS.     We analyzed the transcriptome of hiPSC-CMs during spaceflight and post-flight. hiPSC-CMs were harvested at 4.5weeks in spaceflight and on day 10 after return to Earth. Ground hiPSC-CMs were collected at the post-return time point as controls. RNALater (Thermo Fisher) was used to preserve flight samples designated for downstream RNA-sequencing analysis.      Samples preserved in RNALater were stored at 4C until return to our laboratory when RNA was isolated from preserved wells in the BioCells using RNeasy kit (Qiagen) following the manufacturer  s protocol. DNase treatment was performed using RNase-free DNase kit (Qiagen). All RNA samples had RNA integrity number equal or higher than 8.9 and concentration equal or higher than 48 ng/uL (Agilent 2100 Bioanalyzer).     Library prep was performed by BGI using the TruSeq RNA Library Prep Kit.     Sequencing was performed by BGI with 30-40 million paired-end 100bp reads per sample on the Illumina HiSeq platform.     Raw reads were aligned by HISAT2 (https://ccb.jhu.edu/software/hisat2/index.shtml)(Kim et al. 2015) to human genome (hg38).",
+                        "Experiment Platform": "Space Automated Bioproduct Laboratory (SABL)",
+                        "Characteristics": "",
+                        "Study Grant Number": "",
+                        "Study Publication Author List": "Wnorowski A Sharma A Chen H Wu H Shao NY Sayed N Liu C Countryman S Stodieck LS Rubins KH Wu SM Lee PHU Wu JC",
+                        "Project Link": "",
+                        "Study Publication Title": "Effects of Spaceflight on Human Induced Pluripotent Stem Cell-Derived Cardiomyocyte Structure and Function",
+                        "Managing NASA Center": "",
+                        "Study Description": "With extended stays aboard the International Space Station (ISS) becoming commonplace there is a need to better understand the effects of microgravity on cardiac function. We utilized human induced pluripotent stem cell-derived cardiomyocytes (hiPSC-CMs) to study the effects of microgravity on cell-level cardiac function and gene expression. The hiPSC-CMs were cultured aboard the ISS for 5.5 weeks and their gene expression structure and functions were compared to ground control hiPSC-CMs. Exposure to microgravity on the ISS caused alterations in hiPSC-CM calcium handling. RNA-sequencing analysis demonstrated 2,635 genes were differentially expressed among flight post-flight and ground control samples including genes involved in mitochondrial metabolism. This study represents the first use of hiPSCs to model the effects of spaceflight on human cardiomyocyte structure and function.",
+                        "organism": "Homo sapiens"
+                    },
+                    "highlight": {
+                        "all": [
+                            "<em>cgene</em>",
+                            "protocol and were maintained in a 5% CO2/air environment as previously described (Lian et al. 2012; <em>Sun</em>"
+                        ]
+                    }
+                },
+                {
+                    "_index": "glds",
+                    "_type": "docs",
+                    "_id": "GLDS-167",
+                    "_score": 4.5246024,
+                    "_source": {
+                        "Authoritative Source URL": "GLDS-167/",
+                        "Flight Program": "",
+                        "Material Type": "Whole Organism",
+                        "Project Identifier": "",
+                        "Accession": "GLDS-167",
+                        "Project Link": "",
+                        "Study Identifier": "GLDS-167",
+                        "Study Protocol Name": "sample collection     RNA extraction     labeling     nucleic acid hybridization     data collection     normalization data transformation",
+                        "Study Assay Technology Type": "DNA microarray",
+                        "Acknowledgments": "",
+                        "Study Assay Technology Platform": "Nimblegen",
+                        "Study Person": {
+                            "Last Name": "Gao",
+                            "Middle Initials": "",
+                            "First Name": "Ying"
+                        },
+                        "Study Protocol Type": "sample collection     RNA extraction     labeling     nucleic acid hybridization     data collection     normalization data transformation",
+                        "Space Program": "",
+                        "Study Title": "Synergistic effects of microgravity and space radiation (Nimblegen)",
+                        "Study Factor Type": "Space Flight     Gravity, Altered     genotype",
+                        "Study Public Release Date": 1488326400.0,
+                        "Parameter Value": "",
+                        "thumbnail": "/genelab/img/GLDS167__study_image.png",
+                        "Study Factor Name": "Spaceflight     Altered Gravity     Genotype",
+                        "Study Assay Measurement Type": "transcription profiling",
+                        "Project Type": "Spaceflight Study",
+                        "Factor Value": "",
+                        "Data Source Accession": "GSE90786",
+                        "Data Source Type": "cgene",
+                        "Project Title": "",
+                        "Study Funding Agency": "This work is supported by National Natural Science Foundation of China (31270903) and the Fundamental Research Funds for the Central Universities (3132016330).",
+                        "Study Protocol Description": "Shenzhou-8 was launched in the Jiuquan Satellite Launch Center on 1 November 2011. About 10 h before the launch, fresh solid NGM and approximately 100,000 dauer worms were successively loaded in the containers.Containers were settled into the centrifugal and static slots of BIOBOX. The Shenzhou-8 mission was flown from 1 - 17 November 2011, with a total mission time of 16.5 days. Throughout the duration of the experiment, the containers maintained a temperature of 23+/- 0.5C. G-force peaks did not exceed levels of 0.01 g, while most of the time values oscillated between 0.005 g. Space radiations dose was measured in the static slot (1.92 mGy) and centrifuge slot (2.27 mGy), respectively. Seven hours after landing, worms were collected and kept in liquid nitrogen. The corresponding ground controls of the experiment were performed in parallel at the Payload Integration Test Center in Beijing 2 days later. Here, the samples were kept in a static slot in BIOBOX and temperature was maintained at 23 +/-0.5C. The ground group was stopped after 16.5 days and the samples were collected after 7 h later. Worms were cultured on Nematode Growth Medium (NGM) at 23C and synchronized to dauer larvae by 1% sodium dodecyl sulfonate (SDS) (Sangon Biotec, Shanghai, China) according to the protocols in Wormbook (Stiernagle 2006).     Total RNA was isolated using Invitrogen TRIzol (Invitrogen, Carlsbad, CA, USA) according to the manufacturer's instructions. Total RNA was quantified using a NanoDrop-1000 spectrophotometer (Thermo Fisher, Wilmington, DE, USA) and RNA quality monitored by GelDoc-ItTM 310 Imaging System (UVP, Cambridge, CA, EUA).     For Cy3 labeling of cDNA, the NimbleGen One-Color DNA labeling kit was used according to the manufacturer's guideline detailed in the Gene Expression Analysis protocol (NimbleGen Systems, Inc., Madison, WI, USA).     Microarrays were hybridized at 42C during 16 to 20h with 4 ug of Cy3 labeled ds-cDNA in NimbleGen hybridization buffer/ hybridization component A in a hybridization chamber (Hybridization System - NimbleGen Systems, Inc., Madison, WI, USA). Following hybridization, washing was performed using the NimbleGen Wash Buffer kit (NimbleGen Systems, Inc., Madison, WI, USA).     Slides were scanned at 5 um/pixel resolution using an Axon GenePix 4000 B scanner (Molecular Devices Corporation) piloted by GenePix Pro 6.0 software (Axon).     Scanned images (TIFF format) were imported into NimbleScan software (version 2.5) for grid alignment and expression data analysis. Expression data were normalized through quantile normalization and the Robust Multichip Average (RMA) algorithm included in the NimbleScan software.",
+                        "Experiment Platform": "",
+                        "Characteristics": "",
+                        "Study Grant Number": "National Natural Science Foundation of China #31270903  Fundamental Research Funds for the Central Universities #3132016330",
+                        "Study Publication Author List": "Ying Gao  Dan Xu  Lei Zhao  Min Zhang  Yeqing Sun",
+                        "Mission": {
+                            "End Date": "17-Nov-2011",
+                            "Start Date": "31-Oct-2011",
+                            "Name": "Shenzhou-8 (SZ-8)"
+                        },
+                        "Study Publication Title": "Effects of microgravity on DNA damage response in Caenorhabditis elegans during Shenzhou-8 spaceflight",
+                        "Managing NASA Center": "",
+                        "Study Description": "Space radiations and microgravity both could cause DNA damage in cells, but the effects of microgravity on DNA damage response to space radiations are still controversial. A mRNA microarray and microRNA microarray in dauer larvae of Caenorhabditis elegans (C. elegans) that endured spaceflight environment and space radiations environment during 16.5-day Shenzhou-8 space mission were performed. In our study, wild type, dys-1 mutant and ced-1 mutant strains of C.elegans endured four conditions during shenzhou-8 spaceflight mission, including spaceflight static condition(ss), spaceflight 1-g centrifugal condition(sc), ground control condition(gc) and no-transport control. Limited to the quantity of worm samples, we performed technical-repeat test but not sample-repeat test.Accordingly, 12 mRNA microarrays were performed.",
+                        "organism": "Caenorhabditis elegans"
+                    },
+                    "highlight": {
+                        "all": [
+                            "<em>cgene</em>",
+                            "Ying Gao  Dan Xu  Lei Zhao  Min Zhang  Yeqing <em>Sun</em>"
+                        ]
+                    }
+                },
+                {
+                    "_index": "glds",
+                    "_type": "docs",
+                    "_id": "GLDS-3",
+                    "_score": 2.2375593,
+                    "_source": {
+                        "Authoritative Source URL": "GLDS-3/",
+                        "Flight Program": "Space Transportation System (STS)",
+                        "Mission": {
+                            "End Date": "17-Jul-2006",
+                            "Start Date": "04-Jul-2006",
+                            "Name": "STS-121"
+                        },
+                        "Material Type": "",
+                        "Project Identifier": "FIT",
+                        "Accession": "GLDS-3",
+                        "Study Identifier": "E-GEOD-23880",
+                        "Study Protocol Name": "P-GSE23880-5     P-GSE23880-4     P-GSE23880-2     P-GSE23880-3     P-GSE23880-6     Radiation Dosimetry     treatment protocol     growth protocol     sample collection protocol     GeneLab microarray data processing protocol",
+                        "Study Assay Technology Type": "DNA microarray",
+                        "Acknowledgments": "We thank David Schneider for helping us with the design of this experiment. We thank Kevin Sato Emily Holton Sid Sun Ken Souza Sue Suffel David Heathcote Cecilia Wigley and BJ Navarro for ensuring the success of our experiment on the space shuttle. We also thank Kelly Norwood Michael Roberts Joseph Benjamin Ashleigh Ruggles and Jennifer Devich for their technical assistance during flight operations. The hml-Gal4 line was a kind gift of Sergey Sinenko. We would like to acknowledge the Protein and Nucleic Acid Facility Beckman Center Stanford University for the processing of gene microarrays and thank Elizabeth Zhou and Michael Eckhart for their help with sample and data processing. We also thank Anuran Chatterjee for his help with editorial comments on the manuscript.",
+                        "Study Assay Technology Platform": "Affymetrix",
+                        "Study Person": {
+                            "Last Name": "Bhattacharya     Marcu     Lera     Sanchez     Levic     Higgins     Shmygelska     Fahlen     Nichol",
+                            "Middle Initials": "",
+                            "First Name": "Sharmila     Oana     Matthew     Max     Edina     Laura     Alena     Thomas     Helen"
+                        },
+                        "Study Protocol Type": "image_aquisition     hybridization     nucleic_acid_extraction     labeling     feature_extraction     Radiation Dosimetry     treatment protocol     growth protocol     sample collection protocol     data transformation",
+                        "Space Program": "NASA",
+                        "Study Title": "Drosophila melanogaster gene expression changes after spaceflight.",
+                        "Study Factor Type": "Cosmic Radiation, Space Flight, developmental stage",
+                        "Study Public Release Date": "1314849600",
+                        "Parameter Value": "",
+                        "thumbnail": "/genelab/img/GLDS3__study_image.png",
+                        "Study Factor Name": "Developmental Stage     Spaceflight     Cosmic Radiation",
+                        "Study Assay Measurement Type": "transcription profiling",
+                        "Project Type": "Spaceflight Study",
+                        "Factor Value": "",
+                        "Data Source Accession": "E-GEOD-23880",
+                        "Data Source Type": "cgene",
+                        "Project Title": "Fungal Pathogenesis Tumorigenesis and Effects of Host Immunity in Space",
+                        "Study Funding Agency": "This study work was supported by a NASA grant to SB for Fungal Pathogenesis Tumorigenesis and Effects of Host Immunity in the Space Environment (FSB-FIT-2005). The funder had a role in study design and in supporting data collection.",
+                        "Study Protocol Description": "Affymetrix GeneChip Scanner 3000 with GCOS software according to manufactuer  s protocol (GeneChip Expression Analysis Technical Manual)     Affymetrix Eukaryotic Target Hybridization protocol (GeneChip Expression Analysis Technical Manual)     Qiagen RNeasy Kit     Affymetrix One Cycle Target Labeling according to manufacturer  s protocol (GeneChip Expression Analysis Technical Manual)     Probe set summarization and normalization was performed by robust multi-array averaging (RMA including background subtraction summarization by median polish and quantile normalization) using the R/Bioconductor package affy.     The absorbed dose from ionizing radiation received by the flight specimens was estimated using TLD passive dosimeters located in the middeck of the space shuttle where the payload was located. More specifically we computed the average between three dosimeters (DLOC1 DLOC2 and DLOC3) for the mission and we divided it by the total duration of the mission to estimate the average absorbed dose rate in mGy/day. This dose rate did not include any shielding effects from the hardware where the specimens resided. The total absorbed dose in water was then computed by simply multiplying the average dose rate with the duration of the experiment. The duration of the experiment was defined as the time in space during which the specimen was  xe2 x80 x9cliving xef xbf xbd?. Once the specimen was frozen or fixed the experiment was considered stopped. A table with these detailed computations for all space shuttle datasets is available on GeneLab at https://genelab-data.ndc.nasa.gov/genelab/environmental/radiation.  The ground samples were not assessed for radiation exposure.     Flies for both the flight and the ground control experiments were transferred from fresh cultures to fly kits 24 hours in advance of the onset of the experiment. Each fly kit consisted of a polycarbonate fly cassette with a 2 ml food tray held in a ventilated aluminum container. These kits were originally developed by the European Space Agency and used previously for Drosophila experiments in space and were subsequently modified by us for use in this experiment. Ten virgin females and 5 males were housed in each fly cassette. Ten kits (5 with flies and 5 empty) flew on the space shuttle and 10 remained on the ground. The fly kits were placed in stowage foam on the shuttle middeck at ambient temperature and in total darkness. The identical procedure was followed for the ground control flies. For both ground and flight experiments on day 6 the food trays containing eggs and larvae were transferred to the 5 empty cassettes and fresh food was given to the original flies. The temperature and relative humidity in the spaceflight and ground payloads were monitored minute-by-minute using a HOBO data logger (Onset Computer Corporation). Values were tracked in real time and paralleled for the ground control in the OES (Orbital Environmental Simulator) at the Kennedy Space Center. Environmental data from flight and ground experiments were provided by the operations team as part of the routine shuttle flight logistics. The average temperature on the flight deck was 23.5 xc2 xb0C ranging between 21.71 xc2 xb0C and 25.56 xc2 xb0C. The ground control average temperature was 22.5 xc2 xb0C with a minimum of 19.42 xc2 xb0C and a maximum of 25.56 xc2 xb0C. The relative humidity was 27.2% on the shuttle deck and 25.4% on ground.     The Drosophila melanogaster Gal4-UAS transgenic line expressing two copies of eGFP under the control of the hemolectin promoter was used in all experiments. This line expresses GFP in all plasmatocytes and has no other phenotype. Flies were grown on semi-defined medium (1% agar 4% brewer  s yeast 2% yeast extract 2% peptone 3% sucrose 6% glucose 0.05% MgSO4 0.05% CaCl2 and tegosept) to which 0.5% blue food dye was added to facilitate the recognition of late 3rd instar larvae at wandering stage by the absence of colored food in the gut.     Larval RNA for microarrays was prepared from 6 sets of 50 mid 3rd instar larvae reared in microgravity and collected on the day of landing of the space shuttle and the same number of control larvae raised on ground. The space shuttle flight had a total duration of 12 days and 18.5 hours. Adult RNA was prepared from 3 sets of 20 adult females each that emerged during the flight and within 4 hours of landing (Flight Day 1) and from adult females from the corresponding ground control cassettes (Ground Day 1). The original parental flies were removed. Given the known generation time at 24 xc2 xb0C the adults that emerged in space (F1) would have been no more than 2 days old.     Raw .CEL files were read in and normalized using the r script  affyNormQC.R  which utilizes the RMA algorithm through the oligo R package [rma() with default parameters]. Quality control reports were generated via the r script  affyNormQC.R  with parameter  do.logtransform  set to TRUE for the generating the raw report. This microarray experiment was annotated with the r script  annotateProbes.R  which utilized Annotation-Db class probe annotations specific to each chip from the Bioconductor repository. In cases where multiple probes mapped to the same gene ID representative probes were selected with the highest mean normalized intensity across all samples.",
+                        "Experiment Platform": "Shuttle Life Sciences Research (Middeck)",
+                        "Characteristics": "",
+                        "Study Grant Number": "FSB-FIT-2005",
+                        "Study Publication Author List": "Marcu O Lera MP Sanchez ME Levic E Higgins LA Shmygelska A Fahlen TF Nichol H Bhattacharya S.",
+                        "Project Link": "http://lsda.jsc.nasa.gov/scripts/experiment/exper.aspx?exp_index=1325&string=drosophila&CURRENT_STRING2=drosophila",
+                        "Study Publication Title": "Innate Immune Responses of Drosophila melanogaster Are Altered by Spaceflight",
+                        "Managing NASA Center": "Ames Research Center (ARC)",
+                        "Study Description": "Gene expression levels were determined in 3rd instar and adult Drosophila melanogaster reared during spaceflight to elucidate the genetic and molecular mechanisms underpinning the effects of microgravity on the immune system. The goal was to validate the Drosophila model for understanding alterations of innate immune responses in humans due to spaceflight. Five containers of flies with ten female and five male fruit flies in each container were housed and bred on the space shuttle (average orbit altitude of 330.35 km) for 12 days and 18.5 hours with a new generation reared in microgravity. RNA was extracted on the day of shuttle landing from whole body animals (3rd instar larvae and adults) hybridized to Drosophila 2.0 Affymetrix genome arrays and the expression level of all genes was normalized against the gene expression level from the corresponding developmental stage animals raised on ground. Spaceflight altered the expression of larval genes involved in the maturation of plasmatocytes (macrophages) and their phagocytic response as well as the level of constitutive expression of pattern recognition receptors and opsonins that specifically recognize bacteria and of lysozymes antimicrobial peptide pathway and immune stress genes hallmarks of humoral immunity. Larval microarrays (FL 6 samples) are based on RNA extracted from 6 independent sets of 50 mid 3rd instar larvae reared in microgravity and collected on the day of landing after 12 days and 18.5 hours on the space shuttle and the same number of control larvae raised on ground (GL 6 samples). Adults microarrays (F1 3 samples) are based on RNA from 3 sets of 20 adult females each that emerged during spaceflight and within 4 hours of landing and the same number of adult females from the corresponding ground control containers (G1 3 samples).",
+                        "organism": "Drosophila melanogaster"
+                    },
+                    "highlight": {
+                        "all": [
+                            "We thank Kevin Sato Emily Holton Sid <em>Sun</em> Ken Souza Sue Suffel David Heathcote Cecilia Wigley and BJ Navarro",
+                            "<em>cgene</em>"
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}
